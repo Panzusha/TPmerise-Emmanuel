@@ -1,0 +1,11 @@
+passe, 0N USER, 11> ORDER
+ORDER:num_order, num_invoice, status, created_at, updated_at
+contient, 0N ORDER, 0N> PRODUCT: num_order, num_product
+PRODUCT:num_product, name, quantity, status, created_at, updated_at
+associé , 01 PRODUCT, 0N> CATEGORY
+
+USER:num_user, name, password, created_at, updated_at
+:
+TAG:num_tag, name, created_at, updated_at
+définipar, 0N> TAG, 01 PRODUCT
+CATEGORY:num_category, name, created_at, updated_at

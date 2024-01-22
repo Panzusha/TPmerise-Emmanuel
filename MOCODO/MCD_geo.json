@@ -1,0 +1,42 @@
+{
+  "width": 573,
+  "height": 289,
+  "cx": [
+    [ "PASSE", 49 ],
+    [ "ORDER", 150 ],
+    [ "CONTIENT", 274 ],
+    [ "PRODUCT", 400 ],
+    [ "ASSOCIE", 515 ],
+    [ "USER", 49 ],
+    [ "TAG", 274 ],
+    [ "DEFINIPAR", 400 ],
+    [ "CATEGORY", 515 ]
+  ],
+  "cy": [
+    [ "PASSE", 77 ],
+    [ "ORDER", 77 ],
+    [ "CONTIENT", 77 ],
+    [ "PRODUCT", 77 ],
+    [ "ASSOCIE", 77 ],
+    [ "USER", 221 ],
+    [ "TAG", 221 ],
+    [ "DEFINIPAR", 221 ],
+    [ "CATEGORY", 221 ]
+  ],
+  "shift": [
+    [ "PASSE,USER,0", 0 ],
+    [ "PASSE,ORDER,0", 0 ],
+    [ "CONTIENT,ORDER,0", 0 ],
+    [ "CONTIENT,PRODUCT,0", 0 ],
+    [ "ASSOCIE,PRODUCT,0", 0 ],
+    [ "ASSOCIE,CATEGORY,0", 0 ],
+    [ "DEFINIPAR,TAG,0", 0 ],
+    [ "DEFINIPAR,PRODUCT,0", 0 ]
+  ],
+  "ratio": [
+    [ "PASSE,ORDER,0", 1.0 ],
+    [ "CONTIENT,PRODUCT,0", 1.0 ],
+    [ "ASSOCIE,CATEGORY,0", 1.0 ],
+    [ "DEFINIPAR,TAG,0", 1.0 ]
+  ]
+}
